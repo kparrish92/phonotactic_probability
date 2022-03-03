@@ -1,0 +1,27 @@
+{
+    "id": "82BEE4EA",
+    "path": "~/Documents/GitHub/phonotactic_probability/scripts/01_helpers.R",
+    "project_path": "scripts/01_helpers.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1646254022767.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "60,38",
+        "scrollLine": "55"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1630622356,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1630622356,
+    "read_only": false,
+    "read_only_alternatives": []
+}
